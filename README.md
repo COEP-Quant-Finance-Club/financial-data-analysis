@@ -1,4 +1,4 @@
-# FDAS Project
+# FDAS Project (README is Tentative and with Errors!)
 
 phase 1: Data Acquisition & Structural Fundamentals
 Goal: Master the basics of Pandas and NumPy by gathering a massive dataset.
